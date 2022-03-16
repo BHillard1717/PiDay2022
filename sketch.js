@@ -61,3 +61,5 @@ function addPoint(){
     circlePoints++;
   }
 }
+
+//marking project as complete
